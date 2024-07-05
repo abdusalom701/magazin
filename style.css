@@ -1,0 +1,132 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 100px;
+    box-shadow: 10px 5px 5px;
+}
+.lar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 400px;
+    margin-left: -200px;
+} 
+header img{
+    margin-left: -100px;
+}
+.butt{
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+}
+.butt button{
+    background: none;
+    border: none;
+    border: 2px solid #EF400F; 
+    border-radius: 20px;
+    height: 60px;
+    width: 200px;
+    color: #EF400F;
+    margin-top: -20px;
+}
+.ehb img{
+    margin-left: 20px;
+    margin-top: -5px;
+
+}
+.alar h1{
+    margin-left: 100px;
+    margin-top: -40px;
+    color: #0D0C5C;
+}
+.alar img{
+    margin-top: 70px;
+}
+.alap a{
+    color: #EF400F;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: -30px;
+}
+.alap{
+    margin-left: 80%;
+    margin-top: -50px;
+}
+.wet{
+    width: 200px;
+    height: 250px;
+    box-shadow: 5px 5px 5px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.weop{
+    width: 200px;
+    height: 250px;
+    box-shadow: -1px 5px 10px;
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-top: -250px;
+}
+.weap{
+    width: 200px;
+    height: 250px;
+    box-shadow: -1px 5px 10px;
+    border-radius: 20px;
+    margin-left: 750px;
+    margin-top: -250px;
+}
+.weapon{
+    width: 200px;
+    height: 250px;
+    box-shadow: -1px 5px 10px;
+    border-radius: 20px;
+    margin-left: 1050px;
+    margin-top: -250px;
+}
+.weta{ 
+    width: 200px;
+    height: 250px;
+    box-shadow: 5px 5px 5px;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.weopo{
+width: 200px;
+height: 250px;
+box-shadow: -1px 5px 10px;
+border-radius: 20px;
+margin-left: 450px;
+margin-top: -250px;
+}
+.weapa{
+width: 200px;
+height: 250px;
+box-shadow: -1px 5px 10px;
+border-radius: 20px;
+margin-left: 750px;
+margin-top: -250px;
+}
+.weapona{
+width: 200px;
+height: 250px;
+box-shadow: -1px 5px 10px;
+border-radius: 20px;
+margin-left: 1050px;
+margin-top: -250px;
+}
+.div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.div img{
+    margin-left: 570px;
+    margin-top: -30px;
+}
+footer p{
+    margin-top: 100px;
+}
